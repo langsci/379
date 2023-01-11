@@ -1,4 +1,4 @@
-# Prosodic boundary phenomena % \lsCoverTitleSizes{51.5pt}{17pt}% Font setting for the title page
+# Prosodic boundary phenomena  
 ## Publication Info
 - Authors: Fabian Schubö and Sabine Zerbian and Sandra Hanne and Isabell Wartenburger
 - Publication Date: not yet published
